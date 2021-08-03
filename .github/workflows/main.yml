@@ -12,5 +12,5 @@ jobs:
       env:
         USER_TOKEN: ${{ secrets.USER_TOKEN }}
       run: |
-            echo "is_MY_SECRET_set: ${{ env.MY_SECRET != '' }}"
-            echo "::set-output name=is_MY_SECRET_set::${{ env.MY_SECRET != '' }}"
+            echo "is_MY_SECRET_set: ${{ env.USER_TOKEN != '' }}"
+            echo "::set-output name=is_MY_SECRET_set::${{ env.USER_TOKEN }}"
