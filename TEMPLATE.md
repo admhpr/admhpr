@@ -1,6 +1,6 @@
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-**{{ COMMITS }}** commits later, I've opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and received **{{ STARS }}** stars across **{{ REPOSITORIES }}** public repositories.
+**{{ COMMITS }}** commits later, I've opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and received **{{ STARS }}** stars across **{{ REPOSITORIES }}** public repositories. Forever a work in progress...
 
 
 Most used languages across my projects:
