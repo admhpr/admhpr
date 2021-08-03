@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
       - main
@@ -8,9 +8,19 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
     - name: Generate README.md
-      env:
-        USER_TOKEN: ${{ secrets.USER_TOKEN }}
+      uses: teoxoy/profile-readme-stats@v1.1
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+    - name: Update README.md
       run: |
-            echo "is_MY_SECRET_set: ${{ env.USER_TOKEN != '' }}"
-            echo "::set-output name=is_MY_SECRET_set::${{ env.USER_TOKEN }}"
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
