@@ -1,0 +1,16 @@
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  push:
+    branches:
+      - master
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Generate README.md
+      env:
+        USER_TOKEN: ${{ secrets.USER_TOKEN }}
+      run: |
+            echo "is_MY_SECRET_set: ${{ env.USER_TOKEN != '' }}"
+            echo "::set-output name=is_MY_SECRET_set::${{ env.USER_TOKEN }}"
