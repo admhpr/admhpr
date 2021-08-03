@@ -12,9 +12,11 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1.1
-      with:
-        token: ${{ secrets.USER_TOKEN }}
+      env:
+        USER_TOKEN: ${{ secrets.USER_TOKEN }}
+      run: |
+            echo "is_MY_SECRET_set: ${{ env.MY_SECRET != '' }}"
+            echo "::set-output name=is_MY_SECRET_set::${{ env.MY_SECRET != '' }}"
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
