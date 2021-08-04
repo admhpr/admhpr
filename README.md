@@ -1,7 +1,8 @@
 Joined Github **4** years ago.
 
-**3275** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. Forever a work in progress...
+**3276** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
 
+Using **21** and starring **30** projects, I've learnt a few things a long the way, forever a work in progress...
 
 Most used languages across my projects:
 
