@@ -1,6 +1,6 @@
-Joined Github **4** years ago.
+Joined Github **4** years ago...
 
-**3277** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
+**3278** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
 
 Most used languages across my projects:
 
