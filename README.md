@@ -1,6 +1,13 @@
-Joined Github **4** years ago...
+Hi there :wave:
 
-**3278** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
+My name is Adam Harpur and I'm a software engineer currently based in Ireland
+
+:earth_africa: You can find my website here: https://adam.harpur.io
+:seedling: I’m currently learn 3D rendering and graphics
+
+I joined Github **4** years ago...
+
+**3279** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
 
 Most used languages across my projects:
 
