@@ -1,4 +1,11 @@
-Joined Github **{{ ACCOUNT_AGE }}** years ago...
+Hi there :wave:
+
+My name is Adam Harpur and I'm a software engineer currently based in Ireland
+
+:earth_africa: You can find my website here: https://adam.harpur.io
+:seedling: I’m currently learn 3D rendering and graphics
+
+I joined Github **{{ ACCOUNT_AGE }}** years ago...
 
 **{{ COMMITS }}** commits later, I've opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and received **{{ STARS }}** stars across **{{ REPOSITORIES }}** public repositories. 
 
