@@ -2,12 +2,14 @@ Hi there :wave:
 
 My name is Adam Harpur and I'm a software engineer currently based in Ireland
 
-* :earth_africa: You can find my website here: https://adam.harpur.io
-* :seedling: I’m currently learn 3D rendering and graphics
+* 🌍 You can find my website here: https://adam.harpur.io
+* 🌲 My main skillset is focused on UI/UX engineering using JavaScript, TypeScript, Vue, React
+* 🌳 I enjoy improving devloper experience using DevOps principles, AWS and modern tooling
+* 🌱 I’m currently learn 3D rendering and graphics
 
 I joined Github **4** years ago...
 
-**3280** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
+**3281** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
 
 Most used languages across my projects:
 
