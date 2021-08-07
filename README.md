@@ -9,7 +9,7 @@ My name is Adam Harpur and I'm a software engineer currently based in Ireland
 
 I joined Github **4** years ago...
 
-**3282** commits later, I've opened **7** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
+**3282** commits later, I've opened **8** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
 
 Most used languages across my projects:
 
