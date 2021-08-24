@@ -2,14 +2,14 @@
 
 * 🌍 [website](https://adam.harpur.io)
 * 🌲 UI/UX engineering using JavaScript, TypeScript, Vue, React
-* 🌳 DevOps principles,Developer Experience, AWS and modern tooling
+* 🌳 DevOps principles, Developer Experience, AWS and modern tooling
 * 🌱 3D rendering and graphics
 
-I joined Github **4** years ago...
+Joined Github **4** years ago...
 
-**3285** commits later, I've opened **8** issues, submitted **13** pull requests and received **30** stars across **86** public repositories. 
-
-Most used languages across my projects:
+**3286** commits
+**8** issues 
+**86** public repositories 
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B151.2%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B118.4%25)
