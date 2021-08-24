@@ -5,9 +5,9 @@
 * 🌳 DevOps principles, Developer Experience, AWS and modern tooling
 * 🌱 3D rendering and graphics
 
-Joined Github **4** years ago...
+**4** years on github
 
-**3286** commits
+**3287** commits
 **8** issues 
 **86** public repositories 
 
