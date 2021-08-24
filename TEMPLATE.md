@@ -5,7 +5,7 @@
 * 🌳 DevOps principles, Developer Experience, AWS and modern tooling
 * 🌱 3D rendering and graphics
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago...
+**{{ ACCOUNT_AGE }}** years on github
 
 **{{ COMMITS }}** commits
 **{{ ISSUES }}** issues 
