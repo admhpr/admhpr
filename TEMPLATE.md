@@ -1,11 +1,9 @@
-Hi there :wave:
 
-My name is Adam Harpur and I'm a software engineer currently based in Ireland
 
-* 🌍 You can find my website here: https://adam.harpur.io
-* 🌲 My main skillset is focused on UI/UX engineering using JavaScript, TypeScript, Vue, React
-* 🌳 I enjoy improving devloper experience using DevOps principles, AWS and modern tooling
-* 🌱 I’m currently learning 3D rendering and graphics
+* 🌍 [website](https://adam.harpur.io)
+* 🌲 UI/UX engineering using JavaScript, TypeScript, Vue, React
+* 🌳 DevOps principles,Developer Experience, AWS and modern tooling
+* 🌱 3D rendering and graphics
 
 I joined Github **{{ ACCOUNT_AGE }}** years ago...
 
