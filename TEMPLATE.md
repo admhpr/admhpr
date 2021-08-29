@@ -1,7 +1,7 @@
 
 
 * 🌍 [website](https://adam.harpur.io)
-* 🌲 UI/UX engineering using JavaScript, TypeScript, Vue, React
+* 🌲 UI/UX development using JavaScript, TypeScript, Vue, React
 * 🌳 DevOps principles, Developer Experience, AWS and modern tooling
 * 🌱 3D rendering and graphics
 
