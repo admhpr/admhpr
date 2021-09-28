@@ -3,11 +3,11 @@
 * 🌍 [website](https://adam.harpur.io)
 * 🌲 UI/UX development using JavaScript, TypeScript, Vue, React
 * 🌳 DevOps principles, Developer Experience, AWS and modern tooling
-* 🌱 3D rendering and graphics
+* 🌱 3D rendering and graphics, WebAssembly, Web3
 
 **5** years on github
 
-**3346** commits
+**3347** commits
 **8** issues 
 **88** public repositories 
 
