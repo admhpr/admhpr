@@ -7,9 +7,9 @@
 
 **5** years on github
 
-**3504** commits
+**3509** commits
 **8** issues 
-**91** public repositories 
+**92** public repositories 
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B151.1%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B118.4%25)
