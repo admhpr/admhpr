@@ -3,7 +3,7 @@
 * 🌳 DevOps principles, Developer Experience, AWS, tooling
 * 🌱 3D rendering, graphics
 
-**5** years on github
+**6** years on github
 
 **4622** commits
 **9** issues 
